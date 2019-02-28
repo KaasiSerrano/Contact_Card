@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contact_Card</string>
+    <string name="Isaak_Serrano">Isaak Serrano</string>
+    <string name="Age">Age</string>
+    <string name="Address">Address</string>
+    <string name="email">E-Mail</string>
+    <string name="Phone">Phone</string>
+    <string name="Freelance">Freelance</string>
+    <string name="Age_Num">23</string>
+    <string name="address">12345 Chestnut street Philadelphia USA</string>
+    <string name="emails">Kaasi.Serrano@gmail.com</string>
+    <string name="phoneNumber">(626)671-9627</string>
+    <string name="freelanncen">Till March 25 2020</string>
+
+</resources>
